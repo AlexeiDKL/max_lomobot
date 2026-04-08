@@ -1,0 +1,5 @@
+max_config:
+  token: ""
+logger:
+  path: ""
+  level: ""

@@ -1,0 +1,6 @@
+max_config:
+  token: "f9LHodD0cOI-Rt9nWvUHOZ8hBKHvdaXgWRoVS49LUu9j1ls0SagFN-bZ_BDA7HT2N9H2sE_UEiWOhickyhwB"
+
+logger:
+  path: "logs/app.log"
+  level: "debug"
