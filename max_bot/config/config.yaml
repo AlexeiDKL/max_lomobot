@@ -1,6 +1,0 @@
-max_config:
-  token: ""
-
-logger:
-  path: "logs/app.log"
-  level: "debug"
